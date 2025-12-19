@@ -33,4 +33,5 @@ Dans ce rapport, j'ai mis en œuvre des mesures avancées pour dynamiser l'analy
 
 ---
 📩 **Intéressé par mon profil ?** Je suis actuellement **Data Analyste Freelance**. Discutons de vos besoins en data visualisation !
-[Lien vers mon LinkedIn](https://www.linkedin.com/in/sebastien-henique/)
+[Lien vers mon LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-henique/)
+)
